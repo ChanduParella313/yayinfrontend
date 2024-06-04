@@ -1,0 +1,32 @@
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.intro{
+    padding: 20px;
+    text-align: center;
+}
+.guide{
+    padding: 20px;
+    text-align: center;
+}
+.tips{
+    padding: 20px;
+    text-align: center;
+}
+.review{
+    padding: 20px;
+    text-align: center;
+}
+.plans{
+    padding: 20px;
+    text-align: center;
+}
+.visuals{
+    padding: 20px;
+    text-align: center;
+}
+.blogs{
+    padding: 20px;
+    text-align: center;
+}
